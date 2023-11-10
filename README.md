@@ -17,7 +17,7 @@ Then either git clone this report or dub-get it.
 
 ### Example Usage
 
-Example '*.fastq.gz' FASTQ files:
+Example `*.fastq.gz` FASTQ files:
 ```
 prepare.py --path fastqs/
 sample          runtype         r1                            r2
